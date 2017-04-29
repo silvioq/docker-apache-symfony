@@ -1,5 +1,6 @@
 FROM debian:jessie
-MAINTAINER Lars Janssen <lars@fazy.net>
+# Original from Lars Janssen <lars@fazy.net>
+MANTAINER  Silvio <silvioq@gmail.com>
 
 # Install Apache PHP mod and its dependencies (including Apache and PHP!)
 ENV DEBIAN_FRONTEND noninteractive
